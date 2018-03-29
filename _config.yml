@@ -1,7 +1,7 @@
 # Site settings
 title: HeJie's Blog
 SEOTitle: Hejie的博客 | HeJie's Blog
-header-img: img/githubhead.jpg
+header-img: img/CuiHejie.jpg
 email: cuihejie331771@gmail.com
 description: "Never say never."
 keyword: "HeJie, HeJie's Blog, 鹤洁的博客, cuihejie, CuiHejie"
@@ -19,7 +19,7 @@ sidebar-avatar: img/githubhead.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     崔鹤洁
+zhihu_username:     HennyJie
 github_username:    HennyJie
 facebook_username:  Hejie Cui
 #jianshu_username:   e71990ada2fd
