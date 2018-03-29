@@ -1,13 +1,13 @@
 # Site settings
 title: HeJie's Blog
 SEOTitle: Hejie的博客 | HeJie's Blog
-header-img: img/CuiHejie.JPG
+header-img: img/home-bg-o.jpg
 email: cuihejie331771@gmail.com
 description: "Never say never."
 keyword: "HeJie, HeJie's Blog, 鹤洁的博客, cuihejie, CuiHejie"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://hennyjie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/HennyJie/HennyJie.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,10 @@ sidebar-avatar: img/githubhead.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
 zhihu_username:     HennyJie
 github_username:    HennyJie
 facebook_username:  Hejie Cui
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+
 
 
 
@@ -64,9 +62,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: c48176fe6a0d6a8ca9b0                            #生成的clientID
   clientSecret: 563b1074416b0a4ea97cf9e9cc9a2de22fbd8291    #生成的clientSecret
-  repo: hennyjie.github.io    #仓库名称
+  repo: HennyJie.github.io    #仓库名称
   owner: HennyJie    #github用户名
-  admin: hejiecui
+  admin: HennyJie
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
